@@ -20,4 +20,4 @@ https://dagshub.com/santoshkumarguntupalli/Red-Wine-Quality/experiments
 
 Parallel Coordinate Plot and Metric Charts:
 
-[text](https://dagshub.com/santoshkumarguntupalli/Red-Wine-Quality/experiments#/compare?experiments=[%22m_8f6a9c5bf2d045ff9467f1dd5adaf598%22,%22m_d1c91b23278047398edb862aad285050%22,%22m_ab18db28a5f04ed5b95d44e4aaa6a356%22,%22m_1ef7b893c7f5488ca476c9ac961ee24d%22,%22m_84ecdef65f9f416cac8ff92c3fa928f5%22])
+https://dagshub.com/santoshkumarguntupalli/Red-Wine-Quality/experiments#/compare?experiments=[%22m_8f6a9c5bf2d045ff9467f1dd5adaf598%22,%22m_d1c91b23278047398edb862aad285050%22,%22m_ab18db28a5f04ed5b95d44e4aaa6a356%22,%22m_1ef7b893c7f5488ca476c9ac961ee24d%22,%22m_84ecdef65f9f416cac8ff92c3fa928f5%22]
