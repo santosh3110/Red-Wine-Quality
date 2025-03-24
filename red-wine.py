@@ -51,7 +51,7 @@ if __name__ == "__main__":
     test_y = test[["quality"]]
 
     shuffle_split = StratifiedShuffleSplit(test_size=0.25,train_size=0.75,n_splits=35,random_state=42)
-
+    
     with mlflow.start_run():
 
         param_grid = {
