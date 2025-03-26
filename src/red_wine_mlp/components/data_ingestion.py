@@ -3,13 +3,13 @@ import urllib.request as request
 import zipfile
 from red_wine_mlp import logger
 from red_wine_mlp.utils.common import get_size
-from red_wine_mlp.config.configuration import DataIngestionConfig
+from red_wine_mlp.entity.config_entity import DataIngestionConfig
 from pathlib import Path
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
         self.config = config
-
+ 
 
     
     def download_file(self):
