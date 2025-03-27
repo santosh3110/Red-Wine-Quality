@@ -1,6 +1,6 @@
-from src.red_wine_mlp.config.configuration import ConfigurationManager
-from src.red_wine_mlp.components.data_transformation import DataTransformation
-from src.red_wine_mlp import logger
+from src.config.configuration import ConfigurationManager
+from src.components.data_transformation import DataTransformation
+from src import logger
 from pathlib import Path
 
 STAGE_NAME = "Data Transformation Stage"

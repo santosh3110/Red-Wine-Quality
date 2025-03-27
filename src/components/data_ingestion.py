@@ -1,9 +1,9 @@
 import os
 import urllib.request as request
 import zipfile
-from src.red_wine_mlp import logger
-from src.red_wine_mlp.utils.common import get_size
-from src.red_wine_mlp.entity.config_entity import DataIngestionConfig
+from src import logger
+from src.utils.common import get_size
+from src.entity.config_entity import DataIngestionConfig
 from pathlib import Path
 
 class DataIngestion:

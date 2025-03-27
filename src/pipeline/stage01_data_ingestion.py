@@ -1,6 +1,6 @@
-from src.red_wine_mlp.config.configuration import ConfigurationManager
-from src.red_wine_mlp.components.data_ingestion import DataIngestion
-from src.red_wine_mlp import logger
+from src.config.configuration import ConfigurationManager
+from src.components.data_ingestion import DataIngestion
+from src import logger
 
 STAGE_NAME = "Data Ingestion Stage"
 

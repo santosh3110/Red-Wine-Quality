@@ -1,6 +1,6 @@
-from src.red_wine_mlp.config.configuration import ConfigurationManager
-from src.red_wine_mlp.components.model_trainer import ModelTrainer
-from src.red_wine_mlp import logger
+from src.config.configuration import ConfigurationManager
+from src.components.model_trainer import ModelTrainer
+from src import logger
 
 STAGE_NAME = "Model Training Stage"
 

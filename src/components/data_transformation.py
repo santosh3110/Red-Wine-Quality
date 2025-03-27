@@ -1,8 +1,8 @@
 import pandas as pd
 import os
-from src.red_wine_mlp import logger
+from src import logger
 from sklearn.model_selection import train_test_split
-from src.red_wine_mlp.entity.config_entity import DataTransformationConfig
+from src.entity.config_entity import DataTransformationConfig
 
 
 

@@ -1,9 +1,9 @@
 import os
 from catboost import CatBoostRegressor
 import joblib
-from src.red_wine_mlp import logger
+from src import logger
 import pandas as pd
-from src.red_wine_mlp.config.configuration import ModelTrainerConfig
+from src.config.configuration import ModelTrainerConfig
 
 class ModelTrainer:
     def __init__(self, config: ModelTrainerConfig):
