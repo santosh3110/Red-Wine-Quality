@@ -1,6 +1,6 @@
 import pandas as pd
-from red_wine_mlp import logger
-from red_wine_mlp.entity.config_entity import DataValidationConfig
+from src.red_wine_mlp import logger
+from src.red_wine_mlp.entity.config_entity import DataValidationConfig
 
 
 class DataValidation:

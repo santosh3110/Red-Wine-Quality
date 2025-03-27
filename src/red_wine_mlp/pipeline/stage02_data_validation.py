@@ -1,6 +1,6 @@
-from red_wine_mlp.config.configuration import ConfigurationManager
-from red_wine_mlp.components.data_validation import DataValidation
-from red_wine_mlp import logger
+from src.red_wine_mlp.config.configuration import ConfigurationManager
+from src.red_wine_mlp.components.data_validation import DataValidation
+from src.red_wine_mlp import logger
 
 STAGE_NAME = "Data Validation Stage"
 

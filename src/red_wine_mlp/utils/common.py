@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from red_wine_mlp import logger
+from src.red_wine_mlp import logger
 import json
 import joblib
 from ensure import ensure_annotations

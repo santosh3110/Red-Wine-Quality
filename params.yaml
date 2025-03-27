@@ -2,11 +2,3 @@ CatBoostRegressor:
   depth: 9
   iterations: 171
   learning_rate: 0.05679835610086079
-
-RandomForest:
-  max_depth: 13
-  n_estimators: 252
-
-ElasticNet: 
-alpha: 0.021584494295802448
-l1_ratio: 0.9699098521619943
