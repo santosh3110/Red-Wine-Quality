@@ -177,7 +177,7 @@ Feel free to fork, improve, and submit pull requests!
 ## 📬 Contact
 
 **Santosh Kumar Guntupalli**  
-[GitHub](https://github.com/santosh3110) | [LinkedIn](https://www.linkedin.com/in/santoshkumarguntupalli)
+[GitHub](https://github.com/santosh3110) | [LinkedIn](https://www.linkedin.com/in/santosh-guntupalli-05b285250/)
 
 ---
 
