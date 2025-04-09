@@ -87,6 +87,8 @@ app.py        # Flask Web App
 
 ## 🚀 Deployment on AWS (CI/CD + Docker)
 
+![alt text](image5.png)
+
 ### ✅ Prerequisites
 
 - AWS IAM user with:
